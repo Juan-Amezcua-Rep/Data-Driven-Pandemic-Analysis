@@ -25,15 +25,18 @@ The following steps outline how the data was imported, transformed, and visualiz
    
 <img width="492" height="548" alt="Imagen 1" src="https://github.com/user-attachments/assets/c4de77f3-1d6e-466e-a8f7-ee7924711fb5" />
 
+
 2. **Choosing the Data Tables**  
    A navigator window provides a preview of the file. We select the specific tables to import (in this case, the `BDCovi19` table).
    
 <img width="601" height="476" alt="Imagen 2" src="https://github.com/user-attachments/assets/7c9dde05-c731-43f4-a47d-1590a7a36de5" />
 
+
 3. **Data Transformation**  
    Before loading, we click on **"Transform Data"** to verify that data types align with analytical needs. After adjustments, we apply the changes.
 
 <img width="601" height="294" alt="Imagen 3" src="https://github.com/user-attachments/assets/9c01e313-6b8c-4842-ba7b-d38cff584a55" />
+
 
 4. **Building Visualizations**  
    Using the panel on the right side of the screen, we insert various charts to display the data.
@@ -47,6 +50,7 @@ The following steps outline how the data was imported, transformed, and visualiz
    - Total cases by country  
    - Map of affected countries  
    - Cases categorized by continent
+
 
 <img width="620" height="349" alt="Imagen 5" src="https://github.com/user-attachments/assets/c552b1d9-747f-4daa-843f-e0b8fbd18fe9" />
 
